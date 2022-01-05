@@ -10,7 +10,7 @@ public class TV {	   //Override
 	public String getColor() {
 	    return color;
 	}
-	public void setProducer(String producer) {
+	public void setProducer() {
 		this.producer = producer;
     }
 	public int getSize() {
